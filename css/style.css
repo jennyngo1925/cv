@@ -1,0 +1,159 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #ffe0e0;
+  font-family: "Indie Flower";
+  font-size: 22px;
+}
+
+.top {
+  background-color: rgb(184, 165, 160);
+}
+
+.cat {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.intro {
+  text-align: center;
+  background-color: #ffe0e0;
+  font-family: "Indie Flower";
+  font-size: 22px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.languages {
+  text-align: left;
+  column-count: 2;
+  float: left;
+  padding-left: 500px;
+  padding-right: 500px;
+  column-gap: 200px;
+}
+
+.experience {
+  text-align: left;
+  column-count: 2;
+  float: left;
+  padding-left: 300px;
+  padding-right: 350px;
+  column-gap: 100px;
+}
+
+.skills {
+  text-align: left;
+  column-count: 2;
+  float: left;
+  padding-left: 400px;
+  padding-right: 400px;
+  column-gap: 100px;
+}
+
+h2 {
+  color: rgb(80, 57, 48);
+  font-family: "Caveat";
+  font-size: 50px;
+}
+
+h3 {
+  color: hotpink;
+}
+
+a:hover {
+  color: white;
+}
+
+a {
+  color: hotpink;
+  text-decoration: none;
+}
+
+.button {
+  background-color: hotpink;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+hr {
+  border: none;
+  border-top: dashed;
+  height: 1px;
+  width: 50%;
+  color: white;
+}
+
+.languages {
+  column-count: 2;
+  float: left;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.footer {
+  background-color: rgb(184, 165, 160);
+  height: 70px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.myphoto img {
+  border-radius: 50%;
+}
+
+dl {
+  width: 100%;
+}
+
+dt {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+}
+
+dd {
+  float: left;
+  width: 50%;
+  padding: 0;
+  margin: 0;
+}
+
+.bottom {
+  border: none;
+  border-top: solid;
+  width: 100%;
+  height: 1px;
+  color: rgb(80, 57, 48);
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+  font-family: "Kalam";
+}
+
+.contact_form {
+  text-align: right;
+  clear: both;
+  float: left;
+  position: relative;
+  width: 58%;
+}
+.submit_button {
+  text-align: right;
+  clear: both;
+  float: left;
+  position: relative;
+  width: 50%;
+}
